@@ -1,0 +1,13 @@
+---
+layout: post
+title: Week 4 -- Pull Requests/CodeTriage
+---
+
+### GitHub Class Site Pull Request
+https://github.com/joannakl/cs480_s18/pull/62
+
+From the start, I first forked the class site repository to my own personal account to edit the site. In the terminal, I cloned the repository onto my machine, then used vim to edit the header.html file. Once I was able to edit the file, I changed the line that had the link to the class's GitHub page and changed it so it said Piazza. I then exited vim, added the file using git add header.html, committed the file, then pushed it to my fork. After that, I went to the class repository website and created a new pull request from my fork. 
+
+### Code Triage
+
+The project I decided to follow was NPM, as I have used it many times last semester in AIT while using JavaScript. One of the issues I looked into had to do with @ in a file name being a problem during file reading which can be found [here](https://github.com/npm/npm/issues/19229). One thing that I noticed was how detailed the issue reporting was. The user who reported the issue included a screenshot of the poblematic snippet of code. This is very useful in saving time when wanting to attack these issues in an efficient way. Although I did not take any action on the bug itself, it was useful to see how people were enaging with each other about it. 
