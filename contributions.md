@@ -18,6 +18,9 @@
 | 14 | [Comment on Issue](https://github.com/xx45/dayjs/issues/142) | Other |
 | 14 | [Comment on Issue](https://github.com/xx45/dayjs/issues/135) | Other |
 | 14 | [Report Issue](https://github.com/hendricius/the-bread-code/issues/87) | Other |
+| 14 | [Comment on Issue](https://github.com/nodejs/node/issues/20678) | Other |
+| 14 | [Report Issue](https://github.com/serhii-londar/open-source-mac-os-apps/issues/177)| Other |
+
 
 
 
